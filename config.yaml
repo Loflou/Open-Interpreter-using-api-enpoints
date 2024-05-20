@@ -1,0 +1,6 @@
+server:
+  port: 5000
+endpoints:
+  execute: /execute
+security:
+  api_key: 'your-secure-api-key'
